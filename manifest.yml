@@ -1,0 +1,5 @@
+---
+applications:
+ - name: ULMVoting
+   random-route: true
+   memory: 256M
